@@ -1,0 +1,6 @@
+[MASTER]
+extension-pkg-whitelist=numpy,torch,sentencepiece
+
+[TYPECHECK]
+ignored-modules=numpy,torch,sentencepiece
+ignored-classes=numpy,torch,sentencepiece
